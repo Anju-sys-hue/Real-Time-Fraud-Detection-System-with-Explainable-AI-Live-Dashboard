@@ -50,11 +50,7 @@ Transactions categorized into:
 
 ## Live Dashboard
 
-Add your deployed Streamlit URL here.
-
-Example:
-
-https://your-app-name.streamlit.app/
+https://real-time-fraud-detection-system-with-explainable-ai-live-dash.streamlit.app/
 
 ---
 
