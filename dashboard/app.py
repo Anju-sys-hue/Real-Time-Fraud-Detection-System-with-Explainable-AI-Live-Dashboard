@@ -669,7 +669,7 @@ elif page == "SHAP Explainability":
     st.subheader("Global SHAP Summary Plot")
 
     st.image(
-        "shap_summary.png",
+        "dashboard/shap_summary.png",
         use_container_width=True
     )
 
@@ -684,21 +684,21 @@ elif page == "SHAP Explainability":
     with col1:
 
         st.image(
-            "waterfall_fraud.png",
+            "dashboard/waterfall_fraud.png",
             caption="Confirmed Fraud Case"
         )
 
     with col2:
 
         st.image(
-            "waterfall_borderline.png",
+            "dashboard/waterfall_borderline.png",
             caption="Borderline Case"
         )
 
     with col3:
 
         st.image(
-            "waterfall_legit.png",
+            "dashboard/waterfall_legit.png",
             caption="Legitimate Transaction"
         )
 
