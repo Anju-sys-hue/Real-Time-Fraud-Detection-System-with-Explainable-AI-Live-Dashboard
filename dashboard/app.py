@@ -22,7 +22,7 @@ st.set_page_config(
 # LOAD DATA
 # =====================================================
 
-df = pd.read_csv("sample_data.csv")
+df = pd.read_csv("dashboard/sample_data.csv")
 
 # =====================================================
 # CUSTOM CSS
