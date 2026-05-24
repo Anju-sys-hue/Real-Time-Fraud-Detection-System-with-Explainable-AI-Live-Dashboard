@@ -50,7 +50,7 @@ Transactions categorized into:
 
 ## Live Dashboard
 
-https://real-time-fraud-detection-system-with-explainable-ai-live-dash.streamlit.app/
+https://real-time-fraud-detection-syst-dashboardapp-dlll27.streamlit.app/
 
 ---
 
